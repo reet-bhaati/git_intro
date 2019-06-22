@@ -1,5 +1,1 @@
-function greet(name)
-{
-    console.log("hello "+name)
-}
-greet("reet");
+console.log("inside branch b");
