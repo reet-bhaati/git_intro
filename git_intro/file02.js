@@ -1,1 +1,2 @@
-console.log("2nd file")
+console.log("inside branch a")
+console.log("fun stuff")
